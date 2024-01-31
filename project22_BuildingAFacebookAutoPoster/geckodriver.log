@@ -1,0 +1,163 @@
+1706743361531	geckodriver	INFO	Listening on 127.0.0.1:50267
+1706743364683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\alenc\\AppData\\Local\\Temp\\rust_mozprofileJiWMp5"
+1706743417225	geckodriver	INFO	Listening on 127.0.0.1:50361
+1706743420360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\alenc\\AppData\\Local\\Temp\\rust_mozprofilebjrtKD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706743421019	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706743421092	Marionette	INFO	Listening on port 50371
+Read port: 50371
+1706743421263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1706743451625	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1706743673004	Marionette	INFO	Stopped listening on port 50371
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\alenc\\AppData\\Local\\Temp\\rust_mozprofileh2alFF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706743540287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706743540351	Marionette	INFO	Listening on port 50447
+Read port: 50447
+1706743540510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1706743548692	Marionette	INFO	Stopped listening on port 50447
+Dynamically enable window occlusion 1
+1706743634374	geckodriver	INFO	Listening on 127.0.0.1:50606
+1706743637444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\alenc\\AppData\\Local\\Temp\\rust_mozprofileEOoWFP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706743638125	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706743638193	Marionette	INFO	Listening on port 50616
+Read port: 50616
+1706743638366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iCMo4/yw/l/zh_CN/ykHZ2A3Nbs2.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1706743668982	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz, line 284: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:284:113
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1706743740921	Marionette	INFO	Stopped listening on port 50616
+Dynamically enable window occlusion 1
+50892
+Read port: 50892
+1706743727600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iCMo4/yw/l/zh_CN/ykHZ2A3Nbs2.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1706743757515	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:744:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:744:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:616:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1374:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:530:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1374, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1374))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1374:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:530:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:646:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1374, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1374))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:349:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:349:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:89:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:696:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:354:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 89, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 89))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig_O4/yQ/l/makehaste_jhash/TmdBDFhlx94AysjWfMvJ1lNIdoHHp7a5x5YquRETH2bixE0ec-n84lQbqJw19YKU0sFplDhwcA_xMzXn3nPLa7h1n8ReVJO9Xfp.js?_nc_x=tvdHBBNyTJN, line 570: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/4c1-YDB8LRR.js?_nc_x=tvdHBBNyTJN, line 162: TypeError: m is undefined
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iCMo4/yw/l/zh_CN/ykHZ2A3Nbs2.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz, line 284: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:284:113
+Async*i@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:285:356
+add@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:285:809
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/QB7NU3JeOXa.js?_nc_x=Ij3Wp8lg5Kz:19:500
+c.$12/r<@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:221:2710
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:69:10432
+c@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:69:11166
+G@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:56:2635
+B@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:56:1301
+D@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:56:1439
+S/<@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:56:6146
+S@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:56:6169
+a.__d/<@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:56:10971
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:69:10432
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:334:2086
+a.__d@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:56:11028
+@https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/O4tFnFOXnJt.js?_nc_x=Ij3Wp8lg5Kz:6:4
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1706743892364	Marionette	INFO	Stopped listening on port 50892
+Dynamically enable window occlusion 1
+: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz, line 284: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/MHbZmMbiFf7.js?_nc_x=Ij3Wp8lg5Kz:284:113
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1706743923903	Marionette	INFO	Stopped listening on port 51050
+Dynamically enable window occlusion 1
