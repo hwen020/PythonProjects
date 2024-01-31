@@ -46,9 +46,9 @@ driver = webdriver.Firefox(executable_path=gecko_path)
 
 driver.get('http://facebook.com')
 emailelement = driver.find_element(By.XPATH, './/*[@id="email"]')
-emailelement.send_keys('9512131639')  # 输入你的邮箱
+emailelement.send_keys('youremial')  # 输入你的邮箱
 passelement = driver.find_element(By.XPATH, './/*[@id="pass"]')
-passelement.send_keys('Whr123456,')  # 输入你的密码
+passelement.send_keys('yourpassword')  # 输入你的密码
 
 elem = driver.find_element(By.XPATH, './/*[@id="u_0_c_pd"]')# //*[@id="loginbutton"]  //*[@id="u_0_5_Au"]  //*[@id="u_0_5_z5"]  //*[@id="u_0_5_v9"]
 elem.click()
