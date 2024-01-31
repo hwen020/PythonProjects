@@ -1,0 +1,5 @@
+1. 注意输入实例有format，会识别冒号来进行分段，所以一定要title:description的格式
+2. 和project 6 联动，需要那边生成的mywebsite.png，在111行代码
+3. pyqrcode里的png module not found:
+https://python-forum.io/thread-40566.html
+但没看上面那行，因为是跳过6直接来做了11，所以准备先去6做完再来这。
